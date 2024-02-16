@@ -7,12 +7,13 @@
 - 📫 Contate-me pelo Meu WhatsApp: (42)99108-9677 
 - 📫 Contate-me pelo meu e-mail: jorgedevsoft@hotmail.com
 
-- <div style="display: inline_block"><br>
- <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jorge-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
   
   ##
  
