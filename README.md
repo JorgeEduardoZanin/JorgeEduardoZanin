@@ -4,7 +4,7 @@
 
 - 🔭 Em busca da procura da primeira oportunidade
 - 🌱 Estudando JAVA
-- 📫 Contate-me pelo Meu WhatsApp: (42)99108-9677 
+- 📫 Contate-me pelo Meu WhatsApp: (42)98860-7575
 - 📫 Contate-me pelo meu e-mail: jorgedevsoftware@hotmail.com
 
 <div style="display: flex; align-items: center;">
