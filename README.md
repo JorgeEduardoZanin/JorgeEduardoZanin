@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-
-- 🔭 Em busca da procura da primeira oportunidade
-- 🌱 Estudando JAVA
+- 🌱 Desenvolvedor Backend 
 - 📫 Contate-me pelo meu WhatsApp: (42)98860-7575
 - 📫 Contate-me pelo meu e-mail: jorgedevsoftware@hotmail.com
 
