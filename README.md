@@ -26,7 +26,7 @@
   </a>
   
 </div>
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=compact&theme=dracula)
 
 
 
