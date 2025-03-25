@@ -27,7 +27,7 @@
 
  <div>
     <a href="https://github.com/JorgeEduardoZanin">
-      <img  align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
+      <img  align="center" margin-top="10px" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
     </a>
 
   </div>
