@@ -32,10 +32,11 @@
 <div style="display: flex; justify-content: space-between; gap: 40px; margin-top:10px; ">
   <a href="https://github.com/JorgeEduardoZanin">
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats" />
-    <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeEduardoZanin&theme=github_dark"/>
+
   </a>
 
   <a href="https://github.com/JorgeEduardoZanin">
+        <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeEduardoZanin&theme=github_dark"/>
     <img align="center" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
   </a>
 </div>
