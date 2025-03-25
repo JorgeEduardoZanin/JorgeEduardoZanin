@@ -35,22 +35,19 @@
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
      
   </a>
-
-   <div style=" ">
       <a href="https://github.com/JorgeEduardoZanin">  
     <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
       </a>
-      </div>
 
   <a href="https://github.com/JorgeEduardoZanin">
     <img align="center" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
   </a>
 </div>
 
-  <div>
+ 
 
 ---
-
+ 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
@@ -61,6 +58,6 @@
     alt="Número de visitantes no perfil"
   />
 </p>
-  </div>
+  
 
 
