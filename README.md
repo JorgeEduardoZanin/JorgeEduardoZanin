@@ -33,7 +33,7 @@
   <!-- Container da esquerda: duas imagens empilhadas -->
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <a href="https://github.com/JorgeEduardoZanin">  
-      <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
+      <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
     </a>
     <a href="https://github.com/JorgeEduardoZanin">  
       <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
