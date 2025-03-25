@@ -30,15 +30,17 @@
   </div>
 
 <div style="display: flex; justify-content: space-between; gap: 40px; margin-top:10px; ">
-   <a href="https://github.com/JorgeEduardoZanin">
-     <div>
+  <div>
+  <a href="https://github.com/JorgeEduardoZanin">  
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
-     </div>
-   
+     
   </a>
+  </div>
    <div style=" ">
+      <a href="https://github.com/JorgeEduardoZanin">  
     <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
-       </div>
+      </a>
+      </div>
 
   <a href="https://github.com/JorgeEduardoZanin">
     <img align="center" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
