@@ -29,23 +29,27 @@
     </a>
   </div>
 
-<div style="display: flex; gap: 40px; margin-top: 10px;">
-  <!-- Container da esquerda: duas imagens empilhadas -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <a href="https://github.com/JorgeEduardoZanin">  
-      <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
-    </a>
-    <a href="https://github.com/JorgeEduardoZanin">  
-      <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
-    </a>
-  </div>
-  <!-- Container da direita: Top Languages -->
-  <div>
-    <a href="https://github.com/JorgeEduardoZanin">
-      <img align="center" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Coluna esquerda: duas imagens empilhadas -->
+    <td style="vertical-align: top;">
+      <a href="https://github.com/JorgeEduardoZanin">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
+      </a>
+      <br>
+      <a href="https://github.com/JorgeEduardoZanin">
+        <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
+      </a>
+    </td>
+    <!-- Coluna direita: Top Languages -->
+    <td style="vertical-align: top;">
+      <a href="https://github.com/JorgeEduardoZanin">
+        <img height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
  
