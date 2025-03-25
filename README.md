@@ -29,24 +29,25 @@
     </a>
   </div>
 
-<table border="0" style="border-collapse: collapse;">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding: 0; margin: 0; border: none;">
       <a href="https://github.com/JorgeEduardoZanin">
-        <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
+        <img style="border: none;" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
       </a>
       <br>
       <a href="https://github.com/JorgeEduardoZanin">
-        <img height="200" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeEduardoZanin&theme=github_dark" alt="Commit Activity"/>
+        <img style="border: none;" height="200" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeEduardoZanin&theme=github_dark" alt="Commit Activity"/>
       </a>
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding: 0; margin: 0; border: none;">
       <a href="https://github.com/JorgeEduardoZanin">
-        <img height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
+        <img style="border: none;" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
  
