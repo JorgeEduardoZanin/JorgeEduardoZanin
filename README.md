@@ -28,13 +28,10 @@
 </div>
 
   
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite)
 
 
-
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
