@@ -34,7 +34,7 @@
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats" />
 
   </a>
-  <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeEduardoZanin&theme=github_dark"/>
+ 
   <a href="https://github.com/JorgeEduardoZanin">
     <img align="center" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
   </a>
