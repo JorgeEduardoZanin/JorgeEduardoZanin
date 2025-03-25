@@ -25,15 +25,12 @@
     </a>
   </div>
 
- <div>
-    <a href="https://github.com/JorgeEduardoZanin">
-      <img  align="center" margin-top="10px" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
-    </a>
+<div style="display: flex; justify-content: space-around; gap: 20px;">
+  <a href="https://github.com/JorgeEduardoZanin">
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats" />
+  </a>
 
-  </div>
-  <div>
-    <a href="https://github.com/JorgeEduardoZanin">
-      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages">
-    </a>
-
- </div>
+  <a href="https://github.com/JorgeEduardoZanin">
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
+  </a>
+</div>
