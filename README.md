@@ -30,12 +30,12 @@
   </div>
 
 <div style="display: flex; justify-content: space-between; gap: 40px; margin-top:10px; ">
-  <div>
+
   <a href="https://github.com/JorgeEduardoZanin">  
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
      
   </a>
-  </div>
+
    <div style=" ">
       <a href="https://github.com/JorgeEduardoZanin">  
     <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
