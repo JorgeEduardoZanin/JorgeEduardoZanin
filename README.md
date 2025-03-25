@@ -30,8 +30,8 @@
   </div>
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td style="vertical-align: top; padding: 0; margin: 0; border: none;">
+  <tr style="border:none;">
+    <td style="vertical-align: top; padding: 0; margin: 0; border: none; ">
       <a href="https://github.com/JorgeEduardoZanin">
         <img style="border: none;" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
       </a>
