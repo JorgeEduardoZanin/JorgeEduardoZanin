@@ -35,7 +35,7 @@
   </a>
 </div>
 
-
+  <div>
 
 <p align="center">
   <img
@@ -43,3 +43,4 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+  </div>
