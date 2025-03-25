@@ -16,7 +16,7 @@
 
   
   ##
-<div style="display: flex; justify-content: space-around; gap: 20px;">
+
   <div>
     <a href="https://www.instagram.com/jorge_duardaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:jorgedevsoftware@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,16 +25,15 @@
     </a>
   </div>
 
-  <div style="flex: 1; display: flex; justify-content: center;">
+ 
     <a href="https://github.com/JorgeEduardoZanin">
-      <img src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
     </a>
-  </div>
+
   
-  <div style="flex: 1; display: flex; justify-content: center;">
+  
     <a href="https://github.com/JorgeEduardoZanin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages">
     </a>
-  </div>
-</div>
+ 
 
