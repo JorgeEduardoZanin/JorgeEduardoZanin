@@ -34,3 +34,12 @@
     <img align="center" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
   </a>
 </div>
+
+
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/JorgeEduardoZanin/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
