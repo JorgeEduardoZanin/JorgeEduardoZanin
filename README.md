@@ -16,7 +16,7 @@
 
   
   ##
- 
+ <div style="display: flex; justify-content: space-between; gap: 20px;">
 <div> 
   
   <a href="https://www.instagram.com/jorge_duardaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,11 +27,18 @@
   
 </div>
 
+<div>
+    <a href="https://github.com/JorgeEduardoZanin">
+      <img src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
+    </a>
+  </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite)
+  <div>
+    <a href="https://github.com/JorgeEduardoZanin">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages">
+    </a>
+  </div>
+</div>
 
 
 
