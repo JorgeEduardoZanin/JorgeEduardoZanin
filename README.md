@@ -37,7 +37,7 @@
       </a>
       <br>
       <a href="https://github.com/JorgeEduardoZanin">
-        <img height="200" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
+        <img height="200" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JorgeEduardoZanin&theme=github_dark" alt="Commit Activity"/>
       </a>
     </td>
     <td style="vertical-align: top;">
