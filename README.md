@@ -34,17 +34,17 @@
     <!-- Coluna esquerda: duas imagens empilhadas -->
     <td style="vertical-align: top;">
       <a href="https://github.com/JorgeEduardoZanin">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
+        <img height="200" width="350" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats"/>
       </a>
       <br>
       <a href="https://github.com/JorgeEduardoZanin">
-        <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
+        <img height="200" width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark" alt="Commit Activity"/>
       </a>
     </td>
     <!-- Coluna direita: Top Languages -->
     <td style="vertical-align: top;">
       <a href="https://github.com/JorgeEduardoZanin">
-        <img height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
+        <img height="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
       </a>
     </td>
   </tr>
