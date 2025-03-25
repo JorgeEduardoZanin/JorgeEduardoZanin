@@ -27,13 +27,13 @@
 
  <div>
     <a href="https://github.com/JorgeEduardoZanin">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
+      <img  align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeEduardoZanin&show_icons=true&theme=graywhite" alt="GitHub stats">
     </a>
 
   </div>
   <div>
     <a href="https://github.com/JorgeEduardoZanin">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages">
+      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages">
     </a>
 
  </div>
