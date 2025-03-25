@@ -42,7 +42,7 @@
     </td>
     <td style="vertical-align: top; padding: 0; margin: 0; border: none;">
       <a href="https://github.com/JorgeEduardoZanin">
-        <img style="border: none;" height="400" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeEduardoZanin&layout=pie" alt="Top Languages" />
+      
       </a>
     </td>
   </tr>
