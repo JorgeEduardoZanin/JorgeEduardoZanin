@@ -4,16 +4,6 @@
 - 📫 Contate-me pelo meu WhatsApp: (42)98860-7575
 - 📫 Contate-me pelo meu e-mail: jorgedevsoftware@hotmail.com
 
-<div>
-    <a href="https://www.instagram.com/jorge_duardaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:jorgedevsoftware@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jorge-eduardo-9170a9243" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </div>
-
-##
-
 <div style="display: flex; align-items: center;">
   <img align="center" alt="JavaScript" height="30" width="70" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -27,9 +17,17 @@
   <img align="center" alt="Docker" height="30" width="70" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="PostgresSql" height="30" width="70" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
-  
- 
 
+
+  ##
+
+  <div>
+    <a href="https://www.instagram.com/jorge_duardaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:jorgedevsoftware@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jorge-eduardo-9170a9243" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </div>
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0;">
   <tr style="border:none;">
@@ -67,5 +65,3 @@
   />
 </p>
   
-
-
