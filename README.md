@@ -28,8 +28,7 @@
   <img align="center" alt="PostgresSql" height="30" width="70" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
   
-  
-##
+ 
 
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border-spacing: 0;">
