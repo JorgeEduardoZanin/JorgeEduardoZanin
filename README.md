@@ -1,8 +1,8 @@
 ### Hi there, im Jorge 👋👨
 
-- 🌱 Desenvolvedor Backend 
-- 📫 Contate-me pelo meu WhatsApp: (42)98860-7575
-- 📫 Contate-me pelo meu e-mail: jorgedevsoftware@hotmail.com
+- 💻 Fullstack Developer
+- 📫 Contact me on my WhatsApp: (42)98860-7575
+- 📫 Contact me by email: jorgedevsoftware@hotmail.com
 
 <div style="display: flex; align-items: center;">
   <img align="center" alt="JavaScript" height="30" width="70" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,7 +20,7 @@
 
 
   ##
-### Redes sociais 📞
+### Social media 📞
   <div>
     <a href="https://www.instagram.com/jorge_duardaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:jorgedevsoftware@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
