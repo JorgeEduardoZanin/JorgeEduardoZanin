@@ -1,6 +1,6 @@
 ### Hi there, im Jorge 👋👨
 
-- 💻 Fullstack developer
+- 💻 Back-end developer
 - 📫 Contact me on my whatsApp: (42)98860-7575
 - 📫 Contact me by e-mail: jorgedevsoftware@hotmail.com
 
