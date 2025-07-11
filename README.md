@@ -3,8 +3,6 @@
 - 💻 Back-end developer
 - 📫 Contact me on my whatsApp: (42)98860-7575
 - 📫 Contact me by e-mail: jorgedevsoftware@hotmail.com
-
-  ##
 ### Social media 📞
   <div>
     <a href="https://www.instagram.com/jorge_duardaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
